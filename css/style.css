@@ -1335,7 +1335,7 @@ section.section {
  * ========================================
  */
 .bg-image-1 {
-  background: url('../images/background-1.jpg');
+  background: url('../images/background-1.png');
   -o-background-size: cover;
   -ms-background-size: cover;
   -moz-background-size: cover;
@@ -2035,7 +2035,7 @@ section.section {
  * ========================================
  */
 .bg-image-2 {
-  background: url('../images/background-1.jpg');
+  background: url('../images/background-1.png');
   -o-background-size: cover;
   -ms-background-size: cover;
   -moz-background-size: cover;

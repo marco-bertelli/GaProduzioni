@@ -16,8 +16,8 @@ if( isset($name) && isset($email) ) {
 	}
 
 	// Email will be send
-	$to = "mailexample62@gmail.com"; // Change with your email address
-	$sub = "$subject from CV"; // You can define email subject
+	$to = "marcobert37@gmail.com"; // Change with your email address
+	$sub = "$subject ti ha scritto dal sito"; // You can define email subject
 	// HTML Elements for Email Body
 	$body = <<<EOD
 	<strong>Name:</strong> $name <br>
